@@ -1,6 +1,4 @@
-## React Business Portal
-
-## Juha Luukkonen
+## React Business Portal - Juha Luukkonen
 
 ## Deployed soon: https://react-businessportal.herokuapp.com/
 

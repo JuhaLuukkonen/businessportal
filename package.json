@@ -1,9 +1,10 @@
 {
-  "name": "matx-react",
-  "author": "ui-lib",
+  "name": "react-businessportal",
+  "author": "Juha Luukkonen",
   "license": "MIT",
   "version": "1.0.0",
   "private": true,
+  "homepage" : "http://JuhaLuukkonen.github.io/react-businessportal",
   "dependencies": {
     "@babel/polyfill": "^7.8.3",
     "@date-io/date-fns": "^1.3.6",

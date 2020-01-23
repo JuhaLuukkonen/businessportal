@@ -1,10 +1,9 @@
 ## React Business Portal
 
-## Author: Juha Luukkonen
+## Juha Luukkonen
 
-## Deployed: https://react-businessportal.herokuapp.com/
+## Deployed soon: https://react-businessportal.herokuapp.com/
 
-<h1><a href="https://ui-lib.com/downloads/matx-react-admin/">Matx React Material Design Admin Dashboard Template</a></h1>
 
 <img alt="Matx React Admin" src="https://ui-lib.com/wp-content/uploads/edd/2020/01/marx-react.png" />
 
